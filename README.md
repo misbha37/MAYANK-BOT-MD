@@ -36,14 +36,14 @@
 
 
 
-### SCAN QR
+### PAIR CODE
 
-2. Scan the QR and get the SESSION ID
+2. Scan the PAIR CODE and get the SESSION ID
    <br>
    
 **Server 1**  
-<a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
-    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
+<a href='https://mayankpair-07a0cb859778.herokuapp.com/' target="_blank">
+    <img alt='SCAN PAIR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
 #### DEPLOY ON RENDER
