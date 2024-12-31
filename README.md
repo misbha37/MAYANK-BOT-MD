@@ -5,9 +5,9 @@
            
 ## _[Update My Repo](https://github.com/misbha37/MAYANK-BOT-MD/wiki/FORK-UPDATE)_
 </div>
-  <a href="https://x-bot-md-qr.koyeb.app">
+  <a href="https://MAYANK-BOT-MD-qr.koyeb.app">
         <p align="center">
-   <img alt="ASWIN SPARKY" height="300" src="https://i.imgur.com/Q2UNwXR.jpg">
+   <img alt="MAYANK MISBHA" height="300" src="https://i.ibb.co/kmcBMkb/Manul-Ofc-X.jpg">
               </p>
   </a>
 </p>
