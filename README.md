@@ -23,16 +23,16 @@
   
 <div align="center">
 
-## _[External Plugins](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
+## _[External Plugins](https://github.com/misbha37/MAYANK-BOT-MD/wiki)_
       
-## _[Basic usage helper](https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/wiki)_
+## _[Basic usage helper](https://github.com/misbha37/MAYANK-BOT-MD/wiki)_
 </div>
 
 ### FORK THIS REPO
 
 1. Must Fork This Repo Before Deployment !
    <br> 
-<a href="https://github.com/A-S-W-I-N-S-P-A-R-K-Y/X-BOT-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+<a href="https://github.com/misbha37/MAYANK-BOT-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
 
 
 
@@ -43,11 +43,6 @@
    
 **Server 1**  
 <a href='https://https-x-bot-md-qr-2.onrender.com' target="_blank">
-    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
-</a>
-
-**Server 2**  
-<a href='https://x-bot-md-qr.koyeb.app' target="_blank">
     <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
 </a>
 
@@ -128,8 +123,6 @@
 
 <br>
 
-* [`EX-KRIZ`](https://github.com/EX-KRIZ)
-* [`VIPER`](https://github.com/Viper-X0)
-* [`KICHU`](https://github.com/KichuExe)
+* [`SHABAN-SOBX-MD`](https://github.com/MRSHABAN40)
  </details>
  
